@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weight Calculator</string>
+    <string name="input">Enter a weight</string>
+    <string name="button_enter">Enter</string>
+</resources>
